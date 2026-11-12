@@ -11,7 +11,7 @@ npm install
 
 # 2. Jalankan PostgreSQL (pakai Docker) dan siapkan .env
 docker compose up -d
-cp .env.example .env
+
 
 # 3. Jalankan aplikasi (tabel dibuat otomatis saat NODE_ENV=development)
 npm run start:dev
