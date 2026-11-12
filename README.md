@@ -1,5 +1,11 @@
 # E-commerce Management System API
 
+## Kelompok 2
+    Nama Anggota: Muhamad Ilyas
+                : Gusti Rizqi Putra Hanif
+                : Fauzy Adytyamaki Madhera
+                : Muhammad Azfa Rizanta
+
 Backend pengelolaan toko online: **produk, kategori, pelanggan, pesanan, dan detail pesanan**.
 Dibangun dengan **NestJS + TypeORM + PostgreSQL** 
 
