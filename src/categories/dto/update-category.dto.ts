@@ -5,7 +5,7 @@ export class UpdateCategoryDto {
   @IsOptional()
   @IsNotEmpty({ message: 'Nama tidak boleh kosong' })
   @IsString({ message: 'Nama harus berupa teks' })
-  @MaxLength(100, { message: 'Nama maksimal 100 karakter' })
+  @MaxLength(100, { message: 'Maksimal 100 karakter' })
   readonly name?: string;
 
   @IsOptional()
