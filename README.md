@@ -1,10 +1,10 @@
 # E-commerce Management System API
 
 ## Kelompok 2
-    Nama Anggota: Muhamad Ilyas
-                : Gusti Rizqi Putra Hanif
-                : Fauzy Adytyamaki Madhera
-                : Muhammad Azfa Rizanta
+    Nama Anggota: Muhamad Ilyas(24090045)
+                : Gusti Rizqi Putra Hanif(24090066)
+                : Fauzy Adytyamaki Madhera(24090139)
+                : Muhammad Azfa Rizanta(24090061)
 
 Backend pengelolaan toko online: **produk, kategori, pelanggan, pesanan, dan detail pesanan**.
 Dibangun dengan **NestJS + TypeORM + PostgreSQL** 
