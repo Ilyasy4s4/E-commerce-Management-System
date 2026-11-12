@@ -1,4 +1,4 @@
-# HALOOOO SELAMAT DATANG
+# SELAMAT DATANG
 
 
 # E-commerce Management System API
