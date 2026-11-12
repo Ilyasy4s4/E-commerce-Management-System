@@ -1,7 +1,7 @@
 # E-commerce Management System API
 
 Backend pengelolaan toko online: **produk, kategori, pelanggan, pesanan, dan detail pesanan**.
-Dibangun dengan **NestJS + TypeORM + PostgreSQL** (struktur yang sama dengan materi kelas).
+Dibangun dengan **NestJS + TypeORM + PostgreSQL** 
 
 ## Cara menjalankan
 
