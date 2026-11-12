@@ -1,0 +1,19 @@
+services:
+  # Nama service container database
+  postgres-db:
+    image: postgres:16-alpine
+    container_name: ecommerce_postgres_container
+    restart: always
+    environment:
+      POSTGRES_USER: ecommerce
+      POSTGRES_PASSWORD: supersecretpassword
+      POSTGRES_DB: ecommerce_db
+    ports:
+      # Format: PortKomputer:PortContainer
+      - "5433:5432"
+    volumes:
+      # Menyimpan data database
+      - postgres_data_volume:/var/lib/postgresql/data
+
+volumes:
+  postgres_data_volume:
